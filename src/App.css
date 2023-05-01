@@ -1,0 +1,32 @@
+.logo {
+    font-weight: bold;
+    font-size: 24px;
+    color: white;
+    margin-left: 10px;
+  }
+  
+  .nav-link {
+    font-weight: bolder;
+    font-size: 16px;
+    color: rgb(46, 123, 24) !important;
+    margin-right: 20px;
+  }
+  
+  .btn {
+    font-weight: bold;
+    font-size: 16px;
+  }
+  .bg-image {
+    background-image: url('./images/bg.jpg');
+    background-size: cover;
+    height: 70vh;
+  }
+  .navbar-toggler-icon {
+    background-color: rgb(72, 179, 43) !important;
+    border-radius: 4px;
+  }
+  .my-custom-class {
+    font-size: 32px;
+    font-weight: bolder !important;
+  }
+  
